@@ -10,8 +10,8 @@
 ## 作品構成要素
 | 構成要素       | 概要                                                                 | GitHub Repository                              |  デモ                     |
 |----------------|----------------------------------------------------------------------|-----------------------------------------------|------------------------------|
-| **sports-barrier-free-hub-2024odh**| コミュニティ機能を含む環境一式を構築する   | [sports-barrier-free-hub-2024odh](https://github.com/dx-junkyard/sports-barrier-free-hub-2024odh) | （近日公開予定） |
-| **api-community-spring**| コミュニティ管理・検索などの機能を提供する<br>（新規作成）          | [api-community-spring](https://github.com/dx-junkyard/api-community-spring) | （近日公開予定） |
+| **sports-barrier-free-hub-2024odh**| コミュニティ機能を含む環境一式を構築する   | [sports-barrier-free-hub-2024odh](https://github.com/dx-junkyard/sports-barrier-free-hub-2024odh) |[BackEnd動作デモ](https://youtu.be/M3vnbaVYyG0) |
+| **api-community-spring**| コミュニティ管理・検索などの機能を提供する<br>（新規作成）          | [api-community-spring](https://github.com/dx-junkyard/api-community-spring) |[BackEnd動作デモ（同上）](https://youtu.be/M3vnbaVYyG0)  |
 | **sports-barrier-free-liff**| スポーツ窓口で備品貸出の手続きを簡単にするためのスマホアプリ<br>（Tokyo OSS Party!!2023の作品を使用予定）   | [sports-barrier-free-liff](https://github.com/dx-junkyard/sports-barrier-free-liff) | [TokyoOSS時のデモ](https://www.youtube.com/watch?v=5nZW4lGoQg0&t=1115s) |
 | **api-facility-rental-spring**| 施設貸出機能を提供<br>（Tokyo OSS Party!!2023の作品を使用予定）   | [api-facility-rental-spring](https://github.com/dx-junkyard/api-facility-rental-spring) |（同上） |
 | **api-equipment-rental-spring**| 備品貸出機能を提供<br>（Tokyo OSS Party!!2023の作品を使用予定）   | [api-equipment-rental-spring](https://github.com/dx-junkyard/api-equipment-rental-spring) |（同上） |
