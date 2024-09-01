@@ -4,6 +4,7 @@
 - 私達は[都知事杯OpenDataHackathon2024](https://odhackathon.metro.tokyo.lg.jp/)で西東京市の[行政課題](https://odhackathon.metro.tokyo.lg.jp/issues/)「スポーツ相談窓口システムの機能拡充によるスポーツ実施率向上」に取り組みます。
 - 西東京市が目指すスポーツ実施率70%近くを達成している国は、地域のスポーツコミュニティを活性化させるための体制を政策として実現しています。私達は身近な人達からなる **スポーツを実施するスモールコミュニティ** を育成し、徐々につながっていくことで国全体にスポーツをするコミュニティネットワークを広げていく仕組み「スポコミ」を提案します。
 - 作品の一部にTokyo OSS Party!!で作成したSports Barrier-free Hubの設備・備品貸出システムを取り入れ、行政の窓口や設備をHubにコミュニティ形成を促進させる構想です。
+- FirstStageではBackendのコミュニティ機能を中心に実装します。
 
 
 ## [BackEnd動作デモ](https://youtu.be/M3vnbaVYyG0)のストーリー説明
