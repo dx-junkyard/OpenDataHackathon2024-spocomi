@@ -6,6 +6,16 @@
 - 作品の一部にTokyo OSS Party!!で作成したSports Barrier-free Hubの設備・備品貸出システムを取り入れ、行政の窓口や設備をHubにコミュニティ形成を促進させる構想です。
 
 
+## [BackEnd動作デモ](https://youtu.be/M3vnbaVYyG0)のストーリー説明
+- MySQLのコンテナ起動
+- IntelliJ IDEのデバッグモードでcommunity APIを起動
+- 1. ユーザー２人を登録（userA, userB)
+- 2. それぞれのユーザーでログインし、認証用のtokenを取得
+- 3. userAでコミュニティを３つ登録
+- 4. userBでコミュニティを２つ登録（途中、token指定ミスで認証エラーの動作を含む）
+- 5. コミュニティ全リスト取得
+- 6. userA所属のコミュニティリスト取得
+
 
 ## 作品構成要素
 | 構成要素       | 概要                                                                 | GitHub Repository                              |  デモ                     |
