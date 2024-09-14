@@ -50,7 +50,7 @@ dx-junkyardでは、技術共有やコラボレーションを通じて、互い
 
 
 ## 連絡先
-OpenData Bridgeやデモ動画に関するご質問、その他のお問い合わせはこちらからお願いいたします。
+スポコミやデモ動画に関するご質問、その他のお問い合わせはこちらからお願いいたします。
 [https://www.dx-junkyard.com/](https://www.dx-junkyard.com/)
 
 ![メール](em_add.png)
