@@ -39,17 +39,6 @@
 | **sports-barrier-free-myql**| コミュニティ、イベント、施設・備品を管理するDB<br>（Tokyo OSS Party!!2023の作品を改善中）   | [sports-barrier-free-myql](https://github.com/dx-junkyard/sports-barrier-free-myql) | （同上） |
 
 
-## システム構成
-![システム構成](spocomi_system.jpg)
-
-## 作品のロードマップ
-![ロードマップ](spocomi_roadmap.jpg)
-
-
-## dx-junkyard参加のお誘い
-dx-junkyardでは、技術共有やコラボレーションを通じて、互いに学び、支援し合うメンバーを募集しています。一緒に創造性と革新性に満ちた社会の実現に貢献しましょう。
-[コミュニティ参加はこちらのフォームから](https://forms.gle/PVW4kYYh53SzbfdbA)
-
 
 ## 連絡先
 スポコミやデモ動画に関するご質問、その他のお問い合わせはこちらからお願いいたします。
